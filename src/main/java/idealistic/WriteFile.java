@@ -1,4 +1,4 @@
-package idealista;
+package idealistic;
 
 import java.io.File;
 import java.io.FileNotFoundException;
